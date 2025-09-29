@@ -1,0 +1,8 @@
+dify_plugin~=0.0.1b67
+python-docx>=0.8.11
+markdown>=3.4.1
+PyYAML>=6.0
+beautifulsoup4>=4.11.1
+pygments>=2.0
+requests>=2.25.1
+Pillow>=8.0.0

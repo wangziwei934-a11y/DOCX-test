@@ -1,0 +1,19 @@
+identity:
+  author: wangziwei934-a11y
+  name: docx
+  label:
+    en_US: DOCX
+    zh_Hans: DOCX
+    ja_JP: DOCX
+    pt_BR: DOCX
+  description:
+    en_US: Convert Markdown text to Microsoft Word DOCX files
+    zh_Hans: 将Markdown文本转换为Microsoft Word DOCX文件
+    ja_JP: Markdown テキストを Microsoft Word DOCX ファイルに変換します
+    pt_BR: Converter texto Markdown para arquivos DOCX do Microsoft Word
+  icon: icon.svg
+tools:
+  - tools/doc.yaml
+extra:
+  python:
+    source: provider/doc.py
